@@ -1,0 +1,14 @@
+E:\DesSoftwareVisual\Ambientação\Desafio1\obj\Debug\net8.0\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesSoftwareVisual\Ambientação\Desafio1\obj\Debug\net8.0\Desafio1.AssemblyInfoInputs.cache
+E:\DesSoftwareVisual\Ambientação\Desafio1\obj\Debug\net8.0\Desafio1.AssemblyInfo.cs
+E:\DesSoftwareVisual\Ambientação\Desafio1\obj\Debug\net8.0\Desafio1.csproj.CoreCompileInputs.cache
+E:\DesSoftwareVisual\Ambientação\Desafio1\bin\Debug\net8.0\Desafio1.exe
+E:\DesSoftwareVisual\Ambientação\Desafio1\bin\Debug\net8.0\Desafio1.deps.json
+E:\DesSoftwareVisual\Ambientação\Desafio1\bin\Debug\net8.0\Desafio1.runtimeconfig.json
+E:\DesSoftwareVisual\Ambientação\Desafio1\bin\Debug\net8.0\Desafio1.dll
+E:\DesSoftwareVisual\Ambientação\Desafio1\bin\Debug\net8.0\Desafio1.pdb
+E:\DesSoftwareVisual\Ambientação\Desafio1\obj\Debug\net8.0\Desafio1.dll
+E:\DesSoftwareVisual\Ambientação\Desafio1\obj\Debug\net8.0\refint\Desafio1.dll
+E:\DesSoftwareVisual\Ambientação\Desafio1\obj\Debug\net8.0\Desafio1.pdb
+E:\DesSoftwareVisual\Ambientação\Desafio1\obj\Debug\net8.0\Desafio1.genruntimeconfig.cache
+E:\DesSoftwareVisual\Ambientação\Desafio1\obj\Debug\net8.0\ref\Desafio1.dll
