@@ -1,0 +1,14 @@
+E:\DesSoftwareVisual\Ambientação\Desafio2\obj\Debug\net8.0\Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesSoftwareVisual\Ambientação\Desafio2\obj\Debug\net8.0\Desafio2.AssemblyInfoInputs.cache
+E:\DesSoftwareVisual\Ambientação\Desafio2\obj\Debug\net8.0\Desafio2.AssemblyInfo.cs
+E:\DesSoftwareVisual\Ambientação\Desafio2\obj\Debug\net8.0\Desafio2.csproj.CoreCompileInputs.cache
+E:\DesSoftwareVisual\Ambientação\Desafio2\bin\Debug\net8.0\Desafio2.exe
+E:\DesSoftwareVisual\Ambientação\Desafio2\bin\Debug\net8.0\Desafio2.deps.json
+E:\DesSoftwareVisual\Ambientação\Desafio2\bin\Debug\net8.0\Desafio2.runtimeconfig.json
+E:\DesSoftwareVisual\Ambientação\Desafio2\bin\Debug\net8.0\Desafio2.dll
+E:\DesSoftwareVisual\Ambientação\Desafio2\bin\Debug\net8.0\Desafio2.pdb
+E:\DesSoftwareVisual\Ambientação\Desafio2\obj\Debug\net8.0\Desafio2.dll
+E:\DesSoftwareVisual\Ambientação\Desafio2\obj\Debug\net8.0\refint\Desafio2.dll
+E:\DesSoftwareVisual\Ambientação\Desafio2\obj\Debug\net8.0\Desafio2.pdb
+E:\DesSoftwareVisual\Ambientação\Desafio2\obj\Debug\net8.0\Desafio2.genruntimeconfig.cache
+E:\DesSoftwareVisual\Ambientação\Desafio2\obj\Debug\net8.0\ref\Desafio2.dll

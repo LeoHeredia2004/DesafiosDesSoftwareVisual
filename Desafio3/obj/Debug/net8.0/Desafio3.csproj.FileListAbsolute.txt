@@ -1,0 +1,14 @@
+E:\DesSoftwareVisual\Ambientação\Desafio3\bin\Debug\net8.0\Desafio3.exe
+E:\DesSoftwareVisual\Ambientação\Desafio3\bin\Debug\net8.0\Desafio3.deps.json
+E:\DesSoftwareVisual\Ambientação\Desafio3\bin\Debug\net8.0\Desafio3.runtimeconfig.json
+E:\DesSoftwareVisual\Ambientação\Desafio3\bin\Debug\net8.0\Desafio3.dll
+E:\DesSoftwareVisual\Ambientação\Desafio3\bin\Debug\net8.0\Desafio3.pdb
+E:\DesSoftwareVisual\Ambientação\Desafio3\obj\Debug\net8.0\Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesSoftwareVisual\Ambientação\Desafio3\obj\Debug\net8.0\Desafio3.AssemblyInfoInputs.cache
+E:\DesSoftwareVisual\Ambientação\Desafio3\obj\Debug\net8.0\Desafio3.AssemblyInfo.cs
+E:\DesSoftwareVisual\Ambientação\Desafio3\obj\Debug\net8.0\Desafio3.csproj.CoreCompileInputs.cache
+E:\DesSoftwareVisual\Ambientação\Desafio3\obj\Debug\net8.0\Desafio3.dll
+E:\DesSoftwareVisual\Ambientação\Desafio3\obj\Debug\net8.0\refint\Desafio3.dll
+E:\DesSoftwareVisual\Ambientação\Desafio3\obj\Debug\net8.0\Desafio3.pdb
+E:\DesSoftwareVisual\Ambientação\Desafio3\obj\Debug\net8.0\Desafio3.genruntimeconfig.cache
+E:\DesSoftwareVisual\Ambientação\Desafio3\obj\Debug\net8.0\ref\Desafio3.dll

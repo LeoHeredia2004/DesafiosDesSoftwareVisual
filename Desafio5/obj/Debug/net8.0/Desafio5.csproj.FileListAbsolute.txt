@@ -1,0 +1,15 @@
+E:\DesSoftwareVisual\Ambientação\Desafio5\obj\Debug\net8.0\Desafio5.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesSoftwareVisual\Ambientação\Desafio5\obj\Debug\net8.0\Desafio5.AssemblyInfoInputs.cache
+E:\DesSoftwareVisual\Ambientação\Desafio5\obj\Debug\net8.0\Desafio5.AssemblyInfo.cs
+E:\DesSoftwareVisual\Ambientação\Desafio5\obj\Debug\net8.0\Desafio5.csproj.CoreCompileInputs.cache
+E:\DesSoftwareVisual\Ambientação\Desafio5\obj\Debug\net8.0\Desafio5.sourcelink.json
+E:\DesSoftwareVisual\Ambientação\Desafio5\bin\Debug\net8.0\Desafio5.exe
+E:\DesSoftwareVisual\Ambientação\Desafio5\bin\Debug\net8.0\Desafio5.deps.json
+E:\DesSoftwareVisual\Ambientação\Desafio5\bin\Debug\net8.0\Desafio5.runtimeconfig.json
+E:\DesSoftwareVisual\Ambientação\Desafio5\bin\Debug\net8.0\Desafio5.dll
+E:\DesSoftwareVisual\Ambientação\Desafio5\bin\Debug\net8.0\Desafio5.pdb
+E:\DesSoftwareVisual\Ambientação\Desafio5\obj\Debug\net8.0\Desafio5.dll
+E:\DesSoftwareVisual\Ambientação\Desafio5\obj\Debug\net8.0\refint\Desafio5.dll
+E:\DesSoftwareVisual\Ambientação\Desafio5\obj\Debug\net8.0\Desafio5.pdb
+E:\DesSoftwareVisual\Ambientação\Desafio5\obj\Debug\net8.0\Desafio5.genruntimeconfig.cache
+E:\DesSoftwareVisual\Ambientação\Desafio5\obj\Debug\net8.0\ref\Desafio5.dll
